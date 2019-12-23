@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ww</string>
+					<string>https://downloads.rongcloud.cn/SealTalk_by_RongCloud_iOS_v2_2_3.ipa?v=1.3.13_1020</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ww</string>
+					<string>http://www.rongcloud.cn/images/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ww</string>
+					<string>http://www.rongcloud.cn/images/icon-114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jlnx.tianshu</string>
+				<string>cn.rongcloud.im</string>
 				<key>bundle-version</key>
 				<string>1.0.5</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>吉林农信</string>
+				<string>SealTalk</string>
 			</dict>
 		</dict>
 	</array>
